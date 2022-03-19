@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Peliculator</string>
+    <string name="title_home">Películas</string>
+    <string name="title_dashboard">Series</string>
+    <string name="title_notifications">Favoritos</string>
+    <string name="genre">Género</string>
+    <string name="welcome">Hola,\n ¿Qué quieres ver?</string>
+    <string name="popular">Recomendadas para ti</string>
+    <string name="top_rated">Más valoradas</string>
+    <string name="studio">Estudio</string>
+    <string name="release">Lanzamiento</string>
+    <string name="similar">Películas Similares</string>
+    <string name="character">Personaje:</string>
+    <string name="lang">es</string>
+    <string name="watch">VER TRAILER</string>
+    <string name="moviesActor">Películas en las que aparece</string>
+    <string name="seriesActor">Series en las que aparece</string>
+    <string name="birthday">Cumpleaños</string>
+    <string name="place">Lugar de nacimiento</string>
+    <string name="popularity">Popularidad</string>
+    <string name="mote">Conocido por</string>
+    <string name="aka">También conocido como</string>
+    <string name="biography">Biografía</string>
+    <string name="seasons">Temporadas</string>
+    <string name="episodes">Episodios</string>
+    <string name="status">Estado</string>
+    <string name="similar_series">Series similares</string>
+    <string name="favorites_welcome">¡Películas y series favoritas!</string>
+    <string name="favorite_series">¡SERIES FAVORITAS!</string>
+    <string name="favorite_movies">¡PELÍCULAS FAVORITAS!</string>
+    <string name="url_error">Error. No he podido encontrar el trailer :(</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Peliculator</string>
+    <string name="title_home">Movies</string>
+    <string name="title_dashboard">Series</string>
+    <string name="title_notifications">Favorites</string>
+    <string name="genre">Genre</string>
+    <string name="welcome">Hello,\n What do you want to watch?</string>
+    <string name="popular">Recommended for you</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="studio">Studio</string>
+    <string name="release">Release</string>
+    <string name="similar">Similar Movies</string>
+    <string name="character">Character:</string>
+    <string name="lang">en</string>
+    <string name="watch">WATCH NOW</string>
+    <string name="moviesActor">Movies in which appears</string>
+    <string name="seriesActor">Series in which appears</string>
+    <string name="birthday">Birthday</string>
+    <string name="place">Place of birth</string>
+    <string name="popularity">Popularity</string>
+    <string name="mote">Known for</string>
+    <string name="aka">Also known as</string>
+    <string name="biography">Biography</string>
+    <string name="seasons">Seasons</string>
+    <string name="episodes">Episodes</string>
+    <string name="status">Status</string>
+    <string name="similar_series">Similar series</string>
+    <string name="favorites_welcome">Favorite series and movies!</string>
+    <string name="favorite_series">FAVORITE SERIES!</string>
+    <string name="favorite_movies">FAVORITE MOVIES!</string>
+    <string name="url_error">Error. Could not find the trailer :(</string>
+
+
+
+</resources>

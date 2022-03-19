@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/drawable/border_button.xml" value="0.18076923076923077" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/drawable/checkbox_selector.xml" value="0.18076923076923077" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/drawable/cleartext.xml" value="0.18076923076923077" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/drawable/ic_fav_24dp.xml" value="0.18076923076923077" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/drawable/ic_fav_selected_24dp.xml" value="0.18076923076923077" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/layout-v21/layout_movie_item_roundedcorners.xml" value="0.5" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/layout/activity_vista_actor.xml" value="0.22" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/layout/activity_vista_media.xml" value="0.15114578254509994" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/layout/activity_vista_media_serie.xml" value="0.1" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/layout/actor_movie.xml" value="0.25" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/layout/find_item_layout.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/layout/fragment_favoritos.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/layout/fragment_media_final.xml" value="0.23088235294117648" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/layout/layout_cast_item.xml" value="0.1" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/layout/pantalla_carga.xml" value="0.1675213675213675" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/layout/splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/Migue/AndroidStudioProjects/practicaandroid/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1675213675213675" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
